@@ -2,6 +2,12 @@ Not thing special
 game from 2 years ago :))
 
 
-just install pygame from pip 
+Just install pygame from pip 
 
-<code>123</code>
+<code>pip install pygame</code>
+
+And run by python
+
+<code>python main.py</code>
+
+Enjoy ❤❤❤
